@@ -1,4 +1,4 @@
-# Market-of-Spice
+# Power BI Dashboard: Sales Analysis of Spices in the Capital
 Overview:
 
 This Power BI project analyzes the sales performance of various spice brands in the capital city. The dashboard provides insights into which brands and products are performing well and how sales trends evolve over time.
